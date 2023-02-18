@@ -1,0 +1,4 @@
+baseURL = 'https://eat-sleep-linux.github.io/linuxappstore'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-creative-portfolio-theme'
